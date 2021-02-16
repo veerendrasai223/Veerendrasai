@@ -2,7 +2,7 @@
 ## Basic Linux Commands
 - pwd
 - Is
-- cd.path
+- cd path
 - cd../
 - mkdir foldername
 - rmdir foldername
